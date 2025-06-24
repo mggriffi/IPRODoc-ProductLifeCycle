@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultDestination
+  Version="1"
+  Comment="Sample destination beta - update &quot;folder&quot; as appropriate"
+  Host=""
+  User="MyAccountId"
+  Password=""
+  Directory="\\cld-itsptl002\c$\Core\Help\FlareProjects\ProductLifeCycle"
+  Port=""
+  ViewUrl="https://myipro.iprotech.com/help/product-life-cycle"
+  Type="file"
+  UploadLogFile="true"
+  ConnectionMode="Active"></CatapultDestination>

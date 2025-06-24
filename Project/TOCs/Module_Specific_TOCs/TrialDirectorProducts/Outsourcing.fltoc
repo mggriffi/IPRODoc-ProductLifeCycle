@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc Version="1">
+    <TocEntry Title="Getting Started with Outsourcing" Link="/Content/Outsourcing/Outsource001.htm">
+        <TocEntry Title="Start QC for a Job" Link="/Content/Outsourcing/Outsource002.htm" />
+        <TocEntry Title="Stop QC for a Job" Link="/Content/Outsourcing/Outsource010.htm" />
+        <TocEntry Title="Stop QC and Complete Job" Link="/Content/Outsourcing/Outsource003.htm" />
+        <TocEntry Title="Cancel a Job" Link="/Content/Outsourcing/Outsource004.htm" />
+        <TocEntry Title="Assign a Job" Link="/Content/Outsourcing/Outsource005.htm" />
+        <TocEntry Title="Approve a Job" Link="/Content/Outsourcing/Outsource006.htm" />
+        <TocEntry Title="Reorder a Job" Link="/Content/Outsourcing/Outsource007.htm" />
+        <TocEntry Title="View Notes" Link="/Content/Outsourcing/Outsource008.htm" />
+        <TocEntry Title="Publish a DVT" Link="/Content/Outsourcing/Outsource012.htm" />
+        <TocEntry Title="Processing Files with RapidSync" Link="/Content/Outsourcing/Outsource011.htm" />
+        <TocEntry Title="Manipulate the Grid" Link="/Content/Outsourcing/Outsource009.htm" />
+        <TocEntry Title="Supported Multimedia File Types" Link="/Content/Outsourcing/SupportedMultimedia.htm" />
+        <TocEntry Title="Meet the Outsourcing Team" Link="/Content/Outsourcing/Team.htm">
+            <TocEntry Title="Production Manager - Garry" Link="/Content/Outsourcing/Garry.htm" />
+            <TocEntry Title="Production Technician - Bridget" Link="/Content/Outsourcing/Bridget.htm" />
+        </TocEntry>
+    </TocEntry>
+</CatapultToc>

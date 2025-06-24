@@ -1,0 +1,43 @@
+﻿.fill-offwhite{fill:#FCFCFC;}
+.trial-presentation{fill:#00AEFF;}
+.fill-white{fill:#FFFFFF;}
+.case-story{fill:#8E4585;}
+.review{fill:#E4701E;}
+.processing{fill:#B42726;}
+.administration{fill:#5D6671;}
+.case-management{fill:#346FA1;}
+.ipro-logo-green{fill:#41b649;}
+.ipro-logo-blue{fill:#1972b9;}
+.ipro-logo-red{fill:#d02030;}
+
+.case-director-360-svg g {
+  -webkit-transform-origin: 50% 50%;
+  -ms-transform-origin: 50% 50%;
+  transform-origin: 50% 50%;
+}
+
+.case-director-360-svg g,
+.case-director-360-svg path {
+  -webkit-transition: all .2s ease-in-out;
+  -moz-transition: all .2s ease-in-out;
+  -ms-transition: all .2s ease-in-out;
+  -o-transition: all .2s ease-in-out;
+}
+
+.svg-btn{cursor: pointer;}
+.svg-btn > g {
+  -webkit-transform: scale(1) translate(0,0);
+  -ms-transform: scale(1) translate(0,0);
+  transform: scale(1) translate(0,0);
+}
+.svg-btn:hover > g {
+  -webkit-transform: scale(1.1) translate(0,0);
+  -ms-transform: scale(1.1) translate(0,0);
+  transform: scale(1.1) translate(0,0);
+}
+.svg-btn:hover .case-management {fill:#3f88ba;}
+.svg-btn:hover .administration {fill:#727e89;}
+.svg-btn:hover .processing {fill:#cc2f2f;}
+.svg-btn:hover .review {fill:#fc7c25;}
+.svg-btn:hover .case-story {fill:#a5529f;}
+.svg-btn:hover .trial-presentation {fill:#1bc4ff;}

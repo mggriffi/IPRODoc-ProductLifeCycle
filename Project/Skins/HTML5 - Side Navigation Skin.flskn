@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin Version="3" SkinType="WebHelp2" ComponentType="MasterPage" TemplateName="Fluid" Comment="HTML5 Side Navigation skin" EnableResponsiveOutput="True" AutoSyncTOC="true">
+    <WebHelpOptions NavigationPanePosition="Right" OffCanvasMenuStyle="Drilldown" MainMenuPosition="Left" EnableSticky="All" />
+    <Stylesheet>
+        <Styles>
+            <Style Name="Side Navigation Menu Item (selected)">
+                <Properties>
+                    <Property Name="Color">#076685</Property>
+                </Properties>
+            </Style>
+        </Styles>
+    </Stylesheet>
+    <Strings />
+</CatapultSkin>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc Version="1">
+    <TocEntry Title="Notes" Link="/Content/TrialDirector/A_GettingStarted/InstallOffline_FrontMatter.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TrialDirector/A_GettingStarted/InstallOffline_TOC.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TrialDirector/A_GettingStarted/Install_TD_in_Offline_Mode.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TrialDirector/A_GettingStarted/Install_TD_Offline_ChangeAdmin.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TrialDirector/A_GettingStarted/Troubleshoot_TD_Offline_Mode_Install.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+</CatapultToc>

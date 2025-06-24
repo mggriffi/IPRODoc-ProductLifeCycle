@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../Stylesheets/CD360Admin_CSS.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <p class="BodyText">Last Revision: <MadCap:variable name="System.ShortDate" /></p>
+    </body>
+</html>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../TableStyles/Note_Table.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <link href="../Stylesheets/Trial_CSS.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <table style="mc-table-style: url('../TableStyles/Note_Table.css');" class="TableStyle-Note_Table" cellspacing="0">
+            <col class="TableStyle-Note_Table-Column-Column1" />
+            <col class="TableStyle-Note_Table-Column-Column2" />
+            <tbody>
+                <tr class="TableStyle-ADD_Help_Tables-Body-Body1">
+                    <td class="TableStyle-Note_Table-BodyB-Column1-">
+                        <img src="../Images/myipro_note.png" />
+                        <p>
+                            <img src="../Images/myipro_tip.png" />
+                        </p>
+                        <p>
+                            <img src="../Images/myipro_warn.png" />
+                        </p>
+                    </td>
+                    <td class="TableStyle-Note_Table-BodyA-Column2-">
+                        <p class="Note">Note: Text text text.</p>
+                        <p class="Note">Tip: Text text text.</p>
+                        <p class="Note">Warning: Text text text.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

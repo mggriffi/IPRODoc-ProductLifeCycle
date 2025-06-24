@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Comment=""
+    Name="CompanyName"
+    EvaluatedDefinition="IPRO">IPRO</Variable>
+  <Variable
+    Comment=""
+    Name="PhoneNumber"
+    EvaluatedDefinition="602-324-4784">602-324-4784</Variable>
+  <Variable
+    Name="StreetAddress"
+    Comment=""
+    Definition="Some text"
+    OriginalName="StreetAddress"
+    EvaluatedDefinition="1700 N. Desert Drive, Suite 101">1700 N. Desert Drive, Suite 101</Variable>
+  <Variable
+    Name="ProductName"
+    Comment=""
+    OriginalName="ProductName"
+    EvaluatedDefinition="TRIAL DIRECTOR">TRIAL DIRECTOR</Variable>
+  <Variable
+    Name="CityStateZip"
+    Comment=""
+    Definition="Some text"
+    EvaluatedDefinition="Tempe, AZ 85281">Tempe, AZ 85281</Variable>
+  <Variable
+    Name="Sync"
+    Comment=""
+    EvaluatedDefinition="SYNC 360">SYNC 360</Variable>
+  <Variable
+    Name="Share"
+    Comment=""
+    EvaluatedDefinition="SHARE 360">SHARE 360</Variable>
+  <Variable
+    Name="Case Manager"
+    Comment=""
+    EvaluatedDefinition="Case Manager">Case Manager</Variable>
+  <Variable
+    Name="Evidence"
+    Comment=""
+    EvaluatedDefinition="EVIDENCE">EVIDENCE</Variable>
+  <Variable
+    Name="Website"
+    Comment=""
+    EvaluatedDefinition="iprotech.com">iprotech.com</Variable>
+  <Variable
+    Name="Present"
+    Comment=""
+    EvaluatedDefinition="PRESENT">PRESENT</Variable>
+  <Variable
+    Name="CaseStory"
+    Comment=""
+    EvaluatedDefinition="Case Story">Case Story</Variable>
+  <Variable
+    Name="LOCAL"
+    Comment=""
+    EvaluatedDefinition="LOCAL DISCOVERY">LOCAL DISCOVERY</Variable>
+  <Variable
+    Name="Outsourcing"
+    Comment=""
+    EvaluatedDefinition="Outsourcing">Outsourcing</Variable>
+  <Variable
+    Name="Review"
+    Comment=""
+    EvaluatedDefinition="Review">Review</Variable>
+  <Variable
+    Name="LOCAL DISCOVERY"
+    Comment=""
+    EvaluatedDefinition="LOCAL DISCOVERY">LOCAL DISCOVERY</Variable>
+  <Variable
+    Name="Eclipse SE"
+    Comment=""
+    EvaluatedDefinition="Eclipse SE">Eclipse SE</Variable>
+  <Variable
+    Name="Presentation"
+    Comment=""
+    EvaluatedDefinition="Presentation">Presentation</Variable>
+  <Variable
+    Name="OPEN DISCOVERY"
+    Comment=""
+    EvaluatedDefinition="OPEN DISCOVERY">OPEN DISCOVERY</Variable>
+</CatapultVariableSet>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet Comment="My set of condition tags">
+    <ConditionTag Comment="" Name="Trial Presentation" BackgroundColor="#6495ed" OriginalName="Trial Presentation" />
+    <ConditionTag Comment="" Name="CaseStory" BackgroundColor="#892e66" OriginalName="CaseStory" />
+    <ConditionTag BackgroundColor="#00ff08" Name="_SHARE" Comment="" OriginalName="_SHARE" />
+    <ConditionTag BackgroundColor="#ff00f3" Name="_SYNC" Comment="" OriginalName="_SYNC" />
+    <ConditionTag BackgroundColor="#fff300" Name="_PRESENT" Comment="" OriginalName="_PRESENT" />
+    <ConditionTag BackgroundColor="#f37f27" Name="Review" Comment="" OriginalName="Review" />
+    <ConditionTag BackgroundColor="#2a5cb6" Name="Case Management" Comment="" OriginalName="Case Management" />
+    <ConditionTag BackgroundColor="#878383" Name="Administration" Comment="" OriginalName="Administration" />
+    <ConditionTag BackgroundColor="#e52020" Name="Processing" Comment="" OriginalName="Processing" />
+    <ConditionTag BackgroundColor="#168137" Name="TD_Admin" Comment="" OriginalName="TD_Admin" />
+    <ConditionTag BackgroundColor="#ffe4e1" Name="DepoView" Comment="" />
+    <ConditionTag BackgroundColor="#ff69b4" Name="Print_Scan_Pub" Comment="" OriginalName="Print_Scan_Pub" />
+    <ConditionTag BackgroundColor="#ff0000" Name="BLOCK" Comment="" />
+    <ConditionTag BackgroundColor="#7fffd4" Name="Autorun" Comment="" OriginalName="Autorun" />
+    <ConditionTag BackgroundColor="#ff9900" Name="Outsourcing" Comment="" />
+    <ConditionTag BackgroundColor="#bdb76b" Name="TD_WebShell_AcctMgmt" Comment="" />
+    <ConditionTag BackgroundColor="#0000ff" Name="TD_V20" Comment="" />
+    <ConditionTag BackgroundColor="#faebd7" Name="CopyCase" Comment="" />
+    <ConditionTag BackgroundColor="#00008b" Name="Install_Offline" Comment="" />
+    <ConditionTag BackgroundColor="#f0fff0" Name="SampleWrkflw" Comment="" />
+    <ConditionTag BackgroundColor="#cd9ec6" Name="Trial Install" Comment="" />
+    <ConditionTag BackgroundColor="#0000ff" Name="FutureDelete" Comment="For content that's accurate for current release, but will become outdated at next release. NOTE: content is not blocked. It only signifies content that will need to be deleted in the future." OriginalName="FutureDelete" />
+    <ConditionTag BackgroundColor="#b9f41e" Name="Upcoming Release" Comment="For new features/screenshots not yet released to the public." OriginalName="Upcoming Release" />
+    <ConditionTag BackgroundColor="#ff00b8" Name="Incomplete" Comment="" OriginalName="Incomplete" />
+    <ConditionTag BackgroundColor="#171d17" Name="Desktop_Only_FutureDelete" Comment="" />
+    <ConditionTag BackgroundColor="#7fffd4" Name="LMS_v4_0" Comment="" OriginalName="LMS" />
+    <ConditionTag BackgroundColor="#008000" Name="LMS" Comment="" />
+</CatapultConditionTagSet>

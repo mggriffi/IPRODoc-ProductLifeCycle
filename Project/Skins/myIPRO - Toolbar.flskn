@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin
+  Version="4"
+  SkinType="Component"
+  Comment="HTML5 Toolbar skin"
+  ComponentType="TopicToolbar"
+  EnableResponsiveOutput="True">
+  <Stylesheet>
+    <Styles>
+      <Style
+        Name="ToolbarItem">
+        <Properties>
+          <Property
+            Name="BackgroundGradient">vertical transparent transparent</Property>
+          <Property
+            Name="BorderTopLeftRadius">3px</Property>
+          <Property
+            Name="BorderTop">solid 1px #dadada</Property>
+          <Property
+            Name="BorderRight">solid 1px #dadada</Property>
+          <Property
+            Name="BorderBottom">solid 1px #dadada</Property>
+          <Property
+            Name="BorderLeft">solid 1px #dadada</Property>
+          <Property
+            Name="BoxShadowVShadow">0px</Property>
+        </Properties>
+        <Classes>
+          <StyleClass
+            Name="Print">
+            <Properties>
+              <Property
+                Name="BorderTopLeftRadius">3px</Property>
+            </Properties>
+          </StyleClass>
+        </Classes>
+      </Style>
+      <Style
+        Name="Toolbar">
+        <Properties>
+          <Property
+            Name="Float">right</Property>
+        </Properties>
+      </Style>
+    </Styles>
+  </Stylesheet>
+  <TopicToolbar
+    EnableCustomLayout="true"
+    Buttons="PreviousTopic|NextTopic|Separator|Print|ExpandAll">
+    <Script></Script>
+  </TopicToolbar>
+  <Strings />
+</CatapultSkin>

@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc Version="1">
+    <TocEntry Title="Getting Started with Ipro 360 Administrator" Link="/Content/TDAdmin/Articles/HowToUseIPro360Admin.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    </TocEntry>
+    <TocEntry Title="Emails, Holidays, and Marketing" Link="/Content/TDAdmin/Articles/Emails and Marketing.htm">
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TDAdmin/Emails_Holidays_and_Marketing/Manage_Email_Templates.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TDAdmin/Emails_Holidays_and_Marketing/Company_Holidays.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TDAdmin/Emails_Holidays_and_Marketing/Change_MarketingInfo_LandingPage.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TDAdmin/Emails_Holidays_and_Marketing/View_Email_Sent_List.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TDAdmin/Emails_Holidays_and_Marketing/Email_Token_Values.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+    <TocEntry Title="Products, Installs, and Updates" Link="/Content/TDAdmin/Articles/ProdInfo_Install_Update.htm">
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TDAdmin/Products_Installs_and Updates/Manage_Core_Desktop_Files.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TDAdmin/Products_Installs_and Updates/Manage_Product_Integ_Settings.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TDAdmin/Products_Installs_and Updates/Installs_and_Updates.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+        </TocEntry>
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TDAdmin/Products_Installs_and Updates/Manage_Release_Info.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TDAdmin/Products_Installs_and Updates/Production_Integ_Actions.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+    <TocEntry Title="Subscriptions, Users, and Roles" Link="/Content/TDAdmin/Articles/Sub_Users_Roles.htm">
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TDAdmin/Subscriptions_Users_and_Roles/Role_Management.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TDAdmin/Subscriptions_Users_and_Roles/Manage_User_Integ_Mapping.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TDAdmin/Subscriptions_Users_and_Roles/Manage_Users/Manage_Users.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TDAdmin/Subscriptions_Users_and_Roles/Manage_Users/Change_a_User_Name.htm" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TDAdmin/Subscriptions_Users_and_Roles/Manage_Users/Set_a_User_as_an_Admin.htm" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TDAdmin/Subscriptions_Users_and_Roles/Manage_Users/Assign_a_User_to_a_Role.htm" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TDAdmin/Subscriptions_Users_and_Roles/Manage_Users/Delete_a_User.htm" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TDAdmin/Subscriptions_Users_and_Roles/Manage_Users/View_Users_LoggedIn.htm" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TDAdmin/Subscriptions_Users_and_Roles/Manage_Users/View_Applications_Assigned_to_a_User.htm" />
+        </TocEntry>
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TDAdmin/Subscriptions_Users_and_Roles/Manage_Subscriptions/Manage_Subscriptions.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TDAdmin/Subscriptions_Users_and_Roles/Manage_Subscriptions/Cancel_a_Subscription.htm" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TDAdmin/Subscriptions_Users_and_Roles/Manage_Subscriptions/Change_the_Company_Name_for_a_Subscription.htm" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TDAdmin/Subscriptions_Users_and_Roles/Manage_Subscriptions/Change_the_Rate_Amount.htm" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TDAdmin/Subscriptions_Users_and_Roles/Manage_Subscriptions/Change_Subscription_Owner.htm" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TDAdmin/Subscriptions_Users_and_Roles/Manage_Subscriptions/Edit_the_Subscription_User_Count.htm" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TDAdmin/Subscriptions_Users_and_Roles/Manage_Subscriptions/Reactivate_a_Subscription.htm" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TDAdmin/Subscriptions_Users_and_Roles/Manage_Subscriptions/Suspend_a_Subscription.htm" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TDAdmin/Subscriptions_Users_and_Roles/Manage_Subscriptions/View_Subscription_Feature_Sets.htm" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TDAdmin/Subscriptions_Users_and_Roles/Manage_Subscriptions/View_Subscription_Users.htm" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TDAdmin/Subscriptions_Users_and_Roles/Manage_Subscriptions/View_Subscription_Sec_Settings.htm" />
+        </TocEntry>
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TDAdmin/Subscriptions_Users_and_Roles/View_NetSuite_Call_Log.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+    <TocEntry Title="SYNC Units and Transactions" Link="/Content/TDAdmin/Articles/SyncUnits_Transactions.htm">
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TDAdmin/SYNC_Units_and_Transactions/Approve_Reject_Sync_Unit_Credit.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TDAdmin/SYNC_Units_and_Transactions/Credit_Sync_Units.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TDAdmin/SYNC_Units_and_Transactions/Browse_Subscription_Transactions.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TDAdmin/SYNC_Units_and_Transactions/View_Sync_Job_List.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+    <TocEntry Title="System Configuration" Link="/Content/TDAdmin/Articles/System_Config.htm">
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TDAdmin/System_Configuration/Manage_Reports.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TDAdmin/System_Configuration/System_Configuration.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TDAdmin/System_Configuration/System_Default.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TDAdmin/System_Configuration/Manage_Sys_Level_Sec_Questions.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TDAdmin/Products_Installs_and Updates/Manage_Product_Integ_Settings.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TDAdmin/System_Configuration/Deleted_Items.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TDAdmin/System_Configuration/Archived_Items.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TDAdmin/System_Configuration/Manage_Stand_Alone_Configurations.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TDAdmin/Products_Installs_and Updates/Manage_Release_Info.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TDAdmin/System_Configuration/View_System_Info.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TDAdmin/System_Configuration/View_the_Audit_Log.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+    <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TDAdmin/Articles/iPro360AdminFAQ.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+</CatapultToc>

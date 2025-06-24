@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="Ipro (Desktop) Help Publish to Beta"
+  Type="WebHelp2"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  MasterPage="/Content/Resources/MasterPages/CD360_MasterPage.flmsp"
+  MasterToc="/Project/TOCs/ProdCal_TOC.fltoc"
+  DefaultUrl="/Content/Prod_Lifecycle_Overview.htm"
+  ConditionTagExpression="include[CD_Module._PRESENT or CD_Module._SYNC or CD_Module.Administration or &quot;CD_Module.Case Management&quot; or CD_Module.CaseStory or CD_Module.Incomplete or CD_Module.Print_Scan_Pub or CD_Module.Processing or CD_Module.Review or CD_Module.TD_WebShell_AcctMgmt or &quot;CD_Module.Trial Presentation&quot; or &quot;CD_Module.Upcoming Release&quot; or General.Not_In_TOC or General.OnlineOnly], exclude[CD_Module._SHARE or CD_Module.Autorun or CD_Module.BLOCK or CD_Module.CopyCase or CD_Module.DepoView or CD_Module.FutureDelete or CD_Module.Install_Offline or CD_Module.LMS_v4_0 or CD_Module.LMS_v4_0 or CD_Module.Outsourcing or CD_Module.SampleWrkflw or CD_Module.TD_Admin or CD_Module.TD_V20 or &quot;CD_Module.Trial Install&quot; or General.PrintOnly]"
+  GetLatestBeforeCompile="true"
+  EnableSitemap="true"
+  SitemapWebUrl="https://myiprobeta.iprotech.com/help/product-life-cycle/"
+  ResolveCssVariables="false"
+  Skin="/Project/Skins/beta_myIPRO_Side Nav.flskn"
+  FaviconSkin="/Project/Skins/IPRO_Favicon.flskn">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/Dest_Beta.fldes"
+      Publish="true" />
+  </Destinations>
+</CatapultTarget>

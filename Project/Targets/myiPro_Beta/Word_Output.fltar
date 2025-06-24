@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="For outputing word documents"
+  Type="MsWord"
+  Destinations=""
+  MasterStylesheet="/Content/Resources/Stylesheets/CD360Admin_CSS.css"
+  ConditionTagExpression="exclude[CD_Module.BLOCK or General.OnlineOnly] "
+  InjectEmptyPages="true"
+  EmbedImages="true"
+  MasterPageLayout="/Content/Resources/PageLayouts/PrintTestLayout.flpgl">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="false"
+    GenerateGlossaryProxy="false" />
+  <DocumentProperties
+    Author="" />
+  <PDF
+    DownsampleImages="false"
+    ShowUsedBookmarks="false"
+    InitialMagnification="Fit"
+    PageLayout="SinglePage"
+    CollapsedBookmarks="true" />
+</CatapultTarget>

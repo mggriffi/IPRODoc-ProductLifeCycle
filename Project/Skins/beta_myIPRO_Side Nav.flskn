@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin
+  Version="4"
+  SkinType="WebHelp2"
+  ComponentType="MasterPage"
+  TemplateName="Fluid"
+  Comment="HTML5 Side Navigation skin"
+  EnableResponsiveOutput="True"
+  AutoSyncTOC="true"
+  LogoUrl="https://mybeta.ipro.com/help">
+  <WebHelpOptions
+    NavigationPanePosition="Left"
+    OffCanvasMenuStyle="Accordion"
+    MainMenuPosition="Left"
+    EnableSticky="All" />
+  <Stylesheet>
+    <Styles>
+      <Style
+        Name="Side Navigation Menu Item (selected)">
+        <Properties>
+          <Property
+            Name="Color">#827aaa</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Logo">
+        <Properties>
+          <Property
+            Name="BackgroundImage">url('MyIproLogo-HelpCenter.png')</Property>
+          <Property
+            Name="AlignmentHorizontal">middle</Property>
+          <Property
+            Name="Order">2</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Header">
+        <Properties>
+          <Property
+            Name="BackgroundColor">#5e5493</Property>
+          <Property
+            Name="PaddingTop">10px</Property>
+          <Property
+            Name="PaddingBottom">10px</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Side Navigation Menu">
+        <Properties>
+          <Property
+            Name="PaddingLeft">0px</Property>
+          <Property
+            Name="PaddingRight">0px</Property>
+          <Property
+            Name="PaddingTop">0px</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Side Navigation Menu Item">
+        <Properties>
+          <Property
+            Name="MarginRight">0px</Property>
+          <Property
+            Name="PaddingLeft">1rem</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Side Navigation Menu Item (hover)">
+        <Properties>
+          <Property
+            Name="BackgroundColor">#5e5493</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Menu">
+        <Properties>
+          <Property
+            Name="Order">1</Property>
+        </Properties>
+      </Style>
+      <Style
+        Name="Search Bar">
+        <Properties>
+          <Property
+            Name="Order">3</Property>
+          <Property
+            Name="Width">300px</Property>
+        </Properties>
+      </Style>
+    </Styles>
+    <Resources>
+      <Resource
+        Name="MyIproLogo-HelpCenter-c.png">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</Resource>
+      <Resource
+        Name="MyIproLogo-HelpCenter.png">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</Resource>
+    </Resources>
+  </Stylesheet>
+  <Strings />
+</CatapultSkin>

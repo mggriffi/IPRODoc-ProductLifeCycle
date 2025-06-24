@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin
+  Version="4"
+  SkinType="Component"
+  Comment="HTML5 Favicon skin"
+  ComponentType="Favicon">
+  <Stylesheet>
+    <Resources>
+      <Resource
+        Name="ipro-favicon.png">H4sIAAAAAAAEAOsM8HPn5ZLiYmBg4PX0cAkC0gIgzMEGJOU//08EUpwFHpHFDAxiqiDM6Bmk8gEoyF7i6evK/pSZl4HXZHUvRwpYyDWixLG0JCO/iGHlujMeQCEekJBLanFyUWZBSWZ+HoMwp6IyUJwLJO6cX1BZlJmeUcKwhv+MFVCUDyxalJoIUqpQkpmbymD6nZ8T5ASQTHB+Wkl5YlEqQ2zBf5BybrDhmcXJOYlApUUM2w9s6QcKc4CEwxOL8jLz0hkOSD9rhzktOL+0KDmV4ev/5tcwZc75ubmpeSUM385M2w8UYwOJhWSW5KQyrHh3SZ2BgVHN08UxxKL37eWN+s6BIsc/vq99+1lovdLaVRVCQW3LJrt4qid9lJ+hkqVg+FO7J0lImvt/41m1bW3nfDn73fJ5Q9vC9ux7Hjv7i5pVgqHFbd9zf1WeP/njkljp/7G7q8z+V273wysMCgELna7NcjnLsXKiY4uAxtKKKfolVgevH/hyhkU7+/OMNJb7/Ddu2inapWzeubUlkeOezfy/d4PXaX89b+9mXhA6TUZ2TqCmt85pFwkmZSWD34um6MX08Z+fuHWZWRObjWlUjFj+itPptQGsodsdV1Z47376la0u6P+B+cxCJyU2/9R0m7vjnmqCzVyV6fOP9EXubfS5tnDDRg+11w8q7bRCWt5z7ReeMNt78659DcbTLrx9Z5KVGMT188NZg73bbN/F/g1pVlhSdf3Fzmb++iO5l5yzJSYBw5DB09XPZZ1TQhMAAAr+7lsCAAA=</Resource>
+    </Resources>
+  </Stylesheet>
+  <Master
+    Image="ipro-favicon.png" />
+  <Browser>
+    <SmallFavicon
+      Image="(generated)"
+      SizePx="16 px" />
+    <MediumFavicon
+      Image="ipro-favicon.png"
+      SizePx="16 px" />
+    <LargeFavicon
+      Image="ipro-favicon.png"
+      SizePx="16 px" />
+  </Browser>
+  <ShortcutIcon
+    Image="ipro-favicon.png" />
+  <Touch>
+    <TouchIcon
+      Image="(none)"
+      SizePx="" />
+  </Touch>
+  <Windows>
+    <MicrosoftSmallTile
+      Image="(none)" />
+    <MicrosoftMediumTile
+      Image="(none)" />
+    <MicrosoftWideTile
+      Image="(none)" />
+    <MicrosoftLargeTile
+      Image="(none)" />
+  </Windows>
+  <Strings />
+</CatapultSkin>

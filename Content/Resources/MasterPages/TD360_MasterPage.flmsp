@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <script type="text/javascript" src="../../Resources/Scripts/redirect-to-help.js?ver=20191120">
+        </script>
+        <script type="text/javascript" src="../../Resources/Scripts/print-css.js?ver=20191120">
+        </script>
+        <meta class="swiftype" name="search_filter_term" data-type="string" content="trialdirector-360" />
+        <link href="../Stylesheets/CD360Admin_CSS.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <p>
+            <div class="content">
+                <MadCap:breadcrumbsProxy />
+                <div id="contentBody">
+                    <div class="row collapse">
+                        <MadCap:bodyProxy />
+                    </div>
+                    <p>&#160;</p>
+                    <MadCap:snippetBlock src="../Snippets/Version.flsnp" />
+                </div>
+                <MadCap:snippetBlock src="../Snippets/Last Revision.flsnp" />
+            </div>
+        </p>
+        <p>&#160;</p>
+        <p>&#160;</p>
+        <hr />
+        <div id="ipro-footer">
+        </div>
+        <script src="https://myipro.iprotech.com/Scripts/Repository/footer.js">
+        </script>
+    </body>
+</html>

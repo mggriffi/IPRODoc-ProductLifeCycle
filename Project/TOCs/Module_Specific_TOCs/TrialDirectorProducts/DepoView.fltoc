@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc Version="1" conditions="">
+    <TocEntry Title="Getting Started with DepoView" Link="/Content/DepoView/Introduction to DepoView.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/DepoView/Open a Transcript or DVT.htm" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/DepoView/Navigate and Play a DVT.htm" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/DepoView/Search a Transcript.htm" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/DepoView/Open and Use the Word Index.htm" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/DepoView/Create View and Change Clips.htm" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/DepoView/Print a Transcript.htm" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/DepoView/View Linked Exhibits.htm" />
+    </TocEntry>
+</CatapultToc>

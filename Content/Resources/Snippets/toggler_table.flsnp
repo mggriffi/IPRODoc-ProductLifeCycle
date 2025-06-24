@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../TableStyles/CD360_Help_Tables.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <link href="../Stylesheets/Trial_CSS.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <p class="BodyText">
+            <MadCap:toggler targets="t1">Click 
+			here for &lt;form name&gt; details</MadCap:toggler>
+        </p>
+        <div MadCap:targetName="t1">
+            <table cellspacing="0" width="90%" style="mc-table-style: url('../TableStyles/CD360_Help_Tables.css');" class="TableStyle-ADD_Help_Tables">
+                <col style="width: 17.47%;" class="TableStyle-ADD_Help_Tables-Column-Column1" />
+                <col style="width: 82.53%;" class="TableStyle-ADD_Help_Tables-Column-Column1" />
+                <thead>
+                    <tr style="height: 25px;" class="TableStyle-ADD_Help_Tables-Head-Header1">
+                        <td class="TableStyle-ADD_Help_Tables-HeadE-Column1-Header1">
+                            <p class="TableHead" style="text-align: center;">Item</p>
+                        </td>
+                        <td class="TableStyle-ADD_Help_Tables-HeadD-Column1-Header1">
+                            <p class="TableHead" style="text-align: center;">Description</p>
+                        </td>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr style="height: 25px;" class="TableStyle-ADD_Help_Tables-Body-Body1">
+                        <td class="TableStyle-ADD_Help_Tables-BodyE-Column1-Body1">
+                            <p class="TableText" style="font-weight: bold;">Text</p>
+                        </td>
+                        <td class="TableStyle-ADD_Help_Tables-BodyD-Column1-Body1">
+                            <p class="TableText">
+                                <span style="font-weight: bold;">Required</span>. Text text text text.</p>
+                        </td>
+                    </tr>
+                    <tr style="height: 25px;" class="TableStyle-ADD_Help_Tables-Body-Body1">
+                        <td class="TableStyle-ADD_Help_Tables-BodyE-Column1-Body1">
+                            <p class="TableText" style="font-weight: bold;">Text</p>
+                        </td>
+                        <td class="TableStyle-ADD_Help_Tables-BodyD-Column1-Body1">
+                            <p class="TableText">
+                                <span style="font-weight: bold;">Required</span>. text text text text:</p>
+                            <ol class="NumbListTable">
+                                <li>
+                                    <p class="TableText">Click step details.</p>
+                                </li>
+                                <li>
+                                    <p class="TableText">Click step details.</p>
+                                </li>
+                                <li>
+                                    <p class="TableText">Click step details.</p>
+                                </li>
+                                <li>
+                                    <p class="TableText">Click step details.</p>
+                                </li>
+                                <li>
+                                    <p class="TableText">Click step details.</p>
+                                </li>
+                            </ol>
+                        </td>
+                    </tr>
+                    <tr style="height: 25px;" class="TableStyle-ADD_Help_Tables-Body-Body1">
+                        <td class="TableStyle-ADD_Help_Tables-BodyB-Column1-Body1">
+                            <p class="TableText" style="font-weight: bold;">Text</p>
+                        </td>
+                        <td class="TableStyle-ADD_Help_Tables-BodyA-Column1-Body1">
+                            <p class="TableText">text text text texttext text text texttext text text texttext text text texttext text text texttext text text texttext text text texttext text text texttext text text texttext text text texttext text text texttext text text texttext text text texttext text text text.</p>
+                            <ul style="list-style: square;" class="BulletListTable">
+                                <li>
+                                    <p class="TableText">bulletbulletbullet</p>
+                                </li>
+                                <li>
+                                    <p class="TableText">bulletbulletbullet</p>
+                                </li>
+                                <li>
+                                    <p class="TableText">bulletbulletbullet</p>
+                                </li>
+                            </ul>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </body>
+</html>

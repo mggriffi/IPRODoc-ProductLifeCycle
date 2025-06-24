@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../Stylesheets/Trial_CSS.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <p class="FAQ">
+            <MadCap:toggler targets="t1">Question Text?</MadCap:toggler>
+        </p>
+        <div MadCap:targetName="t1">
+            <p class="FAQText">Answer text</p>
+        </div>
+        <p class="FAQ">
+            <MadCap:toggler targets="t2">Question Text?</MadCap:toggler>
+        </p>
+        <div MadCap:targetName="t2">
+            <p class="FAQText">Answer text</p>
+        </div>
+        <p class="FAQ">
+            <MadCap:toggler targets="t3">Question Text?</MadCap:toggler>
+        </p>
+        <div MadCap:targetName="t3">
+            <p>Answer text</p>
+        </div>
+        <p class="FAQ">
+            <MadCap:toggler targets="t4">Question Text?</MadCap:toggler>
+        </p>
+        <div MadCap:targetName="t4">
+            <p class="FAQText">Answer text</p>
+        </div>
+    </body>
+</html>

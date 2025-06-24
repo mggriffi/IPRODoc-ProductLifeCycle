@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc Version="1">
+    <TocEntry Title="Getting Started with SYNC 360" Link="/Content/SYNC/DeskSync/Getting_Started_with_Sync.htm">
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SYNC/DeskSync/Getting_Started_with_Sync.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SYNC/DeskSync/View_Account_Activity.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SYNC/DeskSync/Change_Sync_User_Preferences.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SYNC/DeskSync/Sync_Hotkeys.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SYNC/DeskSync/SupportedMultimedia.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SYNC/DeskSync/Burn_DepoView_Vols_to_CD_DVD.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SYNC/DeskSync/Create_a_DVT.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SYNC/DeskSync/Use_the_Create_a_DVT_Wizard.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SYNC/DeskSync/Open_a_DVT.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SYNC/DeskSync/Publish_a_DVT.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SYNC/DeskSync/Publish_to_Case.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SYNC/DeskSync/Pick_Up_a_DVT.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SYNC/WebSync/Approve_a_SYNC_Job.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SYNC/WebSync/Download_a_DVT.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+        </TocEntry>
+        <TocEntry Title="Transcripts" Link="/Content/SYNC/DeskSync/Transcripts.htm">
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SYNC/DeskSync/Create_a_DVT.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SYNC/DeskSync/Use_the_Create_a_DVT_Wizard.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SYNC/DeskSync/Open_a_DVT.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SYNC/DeskSync/Close_a_DVT.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SYNC/DeskSync/Publish_a_DVT.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SYNC/DeskSync/Edit_a_Transcript.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SYNC/DeskSync/Re_Paginate_a_Transcript.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SYNC/DeskSync/Search_a_Transcript.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SYNC/DeskSync/Sync_a_Transcript_from_View.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SYNC/DeskSync/Manually_Sync.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SYNC/DeskSync/Review_a_Digital_Video_Transcript.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SYNC/DeskSync/Perform_a_Quality_Check.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            <TocEntry Title="Manage Transcript Versions" Link="/Content/SYNC/DeskSync/Manage_Transcript_Versions.htm">
+                <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SYNC/DeskSync/Revert_Transcription_Version.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SYNC/DeskSync/Open_Transcript_Version.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            </TocEntry>
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SYNC/DeskSync/Change DVT Properties.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            <TocEntry Title="Use Linked Exhibits" Link="/Content/SYNC/DeskSync/Use_Linked_Exhibits.htm">
+                <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SYNC/DeskSync/Add_Linked_Exhibits.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SYNC/DeskSync/Remove_Linked_Exhibits.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SYNC/DeskSync/Edit_Linked_Exhibits.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SYNC/DeskSync/Import_Linked_Exhibits.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            </TocEntry>
+            <TocEntry Title="Manage Multimedia" Link="/Content/SYNC/DeskSync/Manage_Multimedia.htm">
+                <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SYNC/DeskSync/Add_Multimedia.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SYNC/DeskSync/Remove_Multimedia.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SYNC/DeskSync/Replace_Multimedia.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SYNC/DeskSync/Reorder Media Files.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            </TocEntry>
+        </TocEntry>
+        <TocEntry Title="Quality Control" Link="/Content/SYNC/DeskSync/QualityControl.htm">
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SYNC/DeskSync/Getting_Started_with_Quality_Control.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SYNC/DeskSync/Quality_Control_Best_Practices.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SYNC/DeskSync/Quality_Control_Hotkeys.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SYNC/DeskSync/Understand_Quality_Control_Color_Codes.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SYNC/DeskSync/Perform_a_Quality_Check.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SYNC/DeskSync/Fill_Missing_Timecodes.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SYNC/DeskSync/Save_Quality_Control_Changes.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SYNC/DeskSync/Complete_Transcript_in_Quality_Control.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SYNC/DeskSync/Play_All_Quality_Control_Results.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SYNC/DeskSync/Cancel_Quality_Control_Changes.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SYNC/DeskSync/Manually_Fill_Timecodes.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SYNC/DeskSync/Mark_Timecode_as_Unspoken.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SYNC/DeskSync/Accept_Questionable_Timecode.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SYNC/DeskSync/Correct_Out_of_Sequence_Timecodes.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SYNC/DeskSync/Change_Context_Line_TCs_Inside_a_Content_Block.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        </TocEntry>
+        <TocEntry Title="Batch Manager" Link="/Content/SYNC/DeskSync/BatchManager.htm">
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SYNC/DeskSync/Create_a_Batch.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            <TocEntry Title="Add Existing Job to a Batch" Link="/Content/SYNC/DeskSync/Add_Existing_DVT_to_a_Batch.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            <TocEntry Title="Add Sync Job to a Batch" Link="/Content/SYNC/DeskSync/Add_New_DVT_to_Batch.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SYNC/DeskSync/Edit_a_Batch.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SYNC/DeskSync/Remove_a_Batch.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SYNC/DeskSync/Execute_a_Batch_Now.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            <TocEntry Title="Remove Sync Job from a Batch" Link="/Content/SYNC/DeskSync/Remove_DVT_from_a_Batch.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        </TocEntry>
+        <TocEntry Title="Job History" Link="/Content/SYNC/DeskSync/JobHistory.htm">
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SYNC/DeskSync/Job_History_Workflow.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SYNC/DeskSync/Export_Job_History.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SYNC/DeskSync/Search_Job_History.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SYNC/DeskSync/Remove_a_Job.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SYNC/DeskSync/Download_a_Transcript.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            <TocEntry Title="Manage Associated Files" Link="/Content/SYNC/DeskSync/Manage_Associated_Files.htm">
+                <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SYNC/DeskSync/Add_a_File.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                <TocEntry Title="Remove a File" Link="/Content/SYNC/DeskSync/Remove_a_File.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SYNC/DeskSync/Replace_a_File.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SYNC/DeskSync/Reorder_Files.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            </TocEntry>
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SYNC/DeskSync/Validate_Job_Files.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SYNC/DeskSync/Fix_an_Unavailable_Job.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        </TocEntry>
+        <TocEntry Title="My Files" Link="/Content/TrialDirector/F_Articles/MyFiles/My_Files.htm">
+            <TocEntry Title="Remove a Job" Link="/Content/TrialDirector/F_Articles/MyFiles/Remove_a_Task.htm" />
+            <TocEntry Title="Download a Job" Link="/Content/TrialDirector/F_Articles/MyFiles/Download_a_Task.htm" />
+            <TocEntry Title="View Details of a Job" Link="/Content/TrialDirector/F_Articles/MyFiles/View_Details_of_a_Task.htm" />
+            <TocEntry Title="Rerun a Job" Link="/Content/TrialDirector/F_Articles/MyFiles/Rerun_a_Task.htm" />
+        </TocEntry>
+        <TocEntry Title="Utilities" Link="/Content/Autorun/AR001.htm">
+            <TocEntry Title="How to Set Up and Use Autorun" Link="/Content/Autorun/AR001.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+            </TocEntry>
+            <TocEntry Title="Open the Autorun Designer" Link="/Content/Autorun/AR002.htm" />
+            <TocEntry Title="Edit the Autorun Designer" Link="/Content/Autorun/AR003.htm" />
+            <TocEntry Title="Apply the Splash Screen to a DepoView" Link="/Content/Autorun/AR004.htm" />
+            <TocEntry Title="Open the DepoView Volume to See the Splash Screen" Link="/Content/Autorun/AR005.htm" />
+        </TocEntry>
+    </TocEntry>
+</CatapultToc>

@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc Version="1">
+    <TocEntry Title="Quick Start Guide" Link="/Content/TrialDirector/A_GettingStarted/QS_FrontMatter.htm" />
+    <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TrialDirector/A_GettingStarted/QS_TOC.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry Title="Quick Start Guide for TrialDirector 360" Link="/Content/TrialDirector/A_GettingStarted/QS_GettingStarted.htm">
+        <TocEntry Title="Navigating TrialDirector 360" Link="/Content/TrialDirector/A_GettingStarted/Navigating in TrialDirector 360.htm">
+            <TocEntry Title="Case Manager" Link="/Content/TrialDirector/CaseManager/CASEMGR.htm">
+            </TocEntry>
+            <TocEntry Title="Evidence" Link="/Content/TrialDirector/F_Articles/Evidence/Working in Evidence/Overview_TrialDirector360_EVIDENCE.htm">
+                <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TrialDirector/F_Articles/Evidence/Clips/Clips.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TrialDirector/F_Articles/Evidence/Documents/Documents.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TrialDirector/F_Articles/Evidence/Multimedia/Multimedia.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TrialDirector/F_Articles/Evidence/Playlists/Playlists.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TrialDirector/F_Articles/Evidence/Reports/Reports.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TrialDirector/F_Articles/Evidence/Transcripts/Transcripts.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+                <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TrialDirector/F_Articles/Evidence/Workbook/Workbooks.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            </TocEntry>
+            <TocEntry Title="Present" Link="/Content/TrialDirector/F_Articles/PRESENT/TrialDirector360_PRESENT.htm">
+            </TocEntry>
+            <TocEntry Title="Settings" Link="/Content/TrialDirector/F_Articles/DeskShell/Change_Account_Settings.htm">
+            </TocEntry>
+        </TocEntry>
+        <TocEntry Title="Creating and Organizing a Case" Link="/Content/TrialDirector/CaseManager/QS_CreatingandOrganizingaCase.htm">
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TrialDirector/CaseManager/Create_a_Case.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+                <TocEntry Title="Issue Types" Link="/Content/TrialDirector/CaseManager/Issue_Types.htm">
+                </TocEntry>
+                <TocEntry Title="Parties" Link="/Content/TrialDirector/CaseManager/Parties.htm">
+                </TocEntry>
+                <TocEntry Title="Exhibit Labels" Link="/Content/TrialDirector/CaseManager/Exhibit_Labels.htm">
+                </TocEntry>
+                <TocEntry Title="Designation Types" Link="/Content/TrialDirector/CaseManager/Designation_Types.htm" />
+            </TocEntry>
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TrialDirector/CaseManager/Open_a_Case.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+                <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TrialDirector/F_Articles/Evidence/Documents/Add_Documents_to_a_Case.htm" />
+                <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TrialDirector/F_Articles/Evidence/Multimedia/Add_Multimedia_to_a_Case.htm" />
+                <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TrialDirector/F_Articles/Evidence/Playlists/Add_a_Playlist_to_a_Case.htm" />
+                <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TrialDirector/F_Articles/Evidence/Transcripts/Add_a_Transcript_to_a_Case.htm" />
+                <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TrialDirector/F_Articles/Evidence/Workbook/Add_a_Workbook_to_a_Case.htm" />
+            </TocEntry>
+        </TocEntry>
+        <TocEntry Title="Preparing for Trial" Link="/Content/TrialDirector/F_Articles/Evidence/Working in Evidence/Overview_TrialDirector360_EVIDENCE.htm">
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TrialDirector/F_Articles/Evidence/Transcripts/Add_a_Redaction_to_a_Transcript.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            <TocEntry Title="Apply an Exhibit Label" Link="/Content/TrialDirector/F_Articles/Evidence/Documents/Apply an Exhibit Label.htm" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TrialDirector/F_Articles/Evidence/Documents/Apply_Annotations_to_a_Document.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TrialDirector/F_Articles/Evidence/Workbook/Add_Items_to_a_Workbook.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TrialDirector/F_Articles/Evidence/Clips/Create_a_Clip.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TrialDirector/F_Articles/Evidence/Documents/Resequence Documents.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        </TocEntry>
+        <TocEntry Title="Presenting at Trial" Link="/Content/TrialDirector/F_Articles/PRESENT/TrialDirector360_PRESENT.htm">
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TrialDirector/F_Articles/PRESENT/Open_a_Case_in_TD360_PRESENT.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TrialDirector/F_Articles/PRESENT/Control_the_Presentation_Display.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TrialDirector/F_Articles/PRESENT/Commands_and_Keyboard_Shortcuts.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TrialDirector/F_Articles/PRESENT/Exhibit_Presentation_Controls.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TrialDirector/F_Articles/PRESENT/Use_Annotations_in_Presentation.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TrialDirector/F_Articles/PRESENT/Load_Items_Using_the_Toolbar.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TrialDirector/F_Articles/PRESENT/Present_Documents_and_Images.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TrialDirector/F_Articles/PRESENT/Present_Multimedia_Files.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TrialDirector/F_Articles/PRESENT/Save_and_Load_Stages.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/TrialDirector/F_Articles/PRESENT/Use_Screen_Snapshot_and_Grab_Screen.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            <TocEntry Title="Use the Presentation Toolbar" Link="/Content/TrialDirector/F_Articles/PRESENT/Use_the_Presentation_Toolbar.htm" />
+            <TocEntry Title="Use the Presentation Zones" Link="/Content/TrialDirector/F_Articles/PRESENT/Use_the_Presentation_Zones.htm">
+            </TocEntry>
+            <TocEntry Title="Use Presentation Preview" Link="/Content/TrialDirector/F_Articles/PRESENT/Use_Presentation_Preview.htm" />
+        </TocEntry>
+    </TocEntry>
+</CatapultToc>

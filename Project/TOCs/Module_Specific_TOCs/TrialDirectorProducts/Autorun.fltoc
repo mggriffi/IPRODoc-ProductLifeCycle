@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc Version="1">
+    <TocEntry Title="Getting Started with Autorun" Link="/Content/Autorun/AR001.htm">
+        <TocEntry Title="Open the Autorun Designer" Link="/Content/Autorun/AR002.htm" />
+        <TocEntry Title="Edit the Autorun Designer" Link="/Content/Autorun/AR003.htm" />
+        <TocEntry Title="Apply the Splash Screen to a DepoView" Link="/Content/Autorun/AR004.htm" />
+        <TocEntry Title="Open the DepoView Volume to See the Splash Screen" Link="/Content/Autorun/AR005.htm" />
+    </TocEntry>
+</CatapultToc>

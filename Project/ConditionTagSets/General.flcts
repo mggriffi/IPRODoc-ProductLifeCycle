@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet>
+    <ConditionTag BackgroundColor="#00ffff" Name="Not_In_TOC" Comment="" />
+    <ConditionTag BackgroundColor="#228b22" Name="PrintOnly" Comment="" OriginalName="PrintOnly" />
+    <ConditionTag BackgroundColor="#4b0082" Name="OnlineOnly" Comment="" OriginalName="OnlineOnly" />
+</CatapultConditionTagSet>

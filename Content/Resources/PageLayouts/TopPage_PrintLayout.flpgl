@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles>
+    <Page Name="Normal" Width="800" Height="800" Padding="1in" PageSize="Letter" PaddingLeft="0.75in" PaddingRight="0.75in" PaddingTop="0.75in" PaddingBottom="0.75in">
+        <Frame Flow="header" Height="0.5in" Right="-11px" X="0px" Y="-0.75in" ColumnCount="1" Width="7.114583in" Bottom="936px">
+        </Frame>
+        <Frame Flow="footer" Height="0.5in" Right="-12px" Bottom="-24px" X="0px" Y="9.25in" Width="7.125in">
+        </Frame>
+        <Frame Flow="body" ColumnCount="1" ColumnGap="0.25in" ColumnDivider="Solid 1pt Black" Width="7.104167in" Height="9in" X="0px" Y="0px" Right="-10px" Bottom="48px">
+        </Frame>
+    </Page>
+</PageStyles>

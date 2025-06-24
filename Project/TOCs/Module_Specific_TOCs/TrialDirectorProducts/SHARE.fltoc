@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc Version="1">
+    <TocEntry Title="Getting Started with SHARE 360" Link="/Content/SHARE/SHARE_TrialDirector360_SHARE.htm">
+        <TocEntry Title="Manage SHARE Account Users" Link="/Content/SHARE/SHARE_Manage_SHARE_Account_Users.htm">
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SHARE/SHARE_Add_a_SHARE_Account_User.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SHARE/SHARE_Edit_a_SHARE_Account_User.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SHARE/SHARE_Remove_a_SHARE_Account_User.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        </TocEntry>
+        <TocEntry Title="Manage SHARE Account Groups" Link="/Content/SHARE/SHARE_Manage_SHARE_Account_Groups.htm">
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SHARE/SHARE_Add_a_SHARE_Group.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SHARE/SHARE_Add_a_Member_to_a_Group.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        </TocEntry>
+        <TocEntry Title="Work with Files and Folders" Link="/Content/SHARE/SHARE_Navigate_the_SHARE_Table.htm">
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SHARE/SHARE_Share_a_Link_to_a_File_or_Folder.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            <TocEntry Title="Add a New Folder" Link="/Content/SHARE/SHARE_Add_a_New_Folder.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SHARE/SHARE_Default_Folders.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SHARE/SHARE_Download_an_Item.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SHARE/SHARE_Edit_a_Folder.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SHARE/SHARE_Favorite_a_File_or_Folder.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SHARE/SHARE_Move_Folders_and_Files.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SHARE/SHARE_Upload_a_File.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SHARE/SHARE_View_a_File_in_SHARE.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SHARE/SHARE_View_SHARE_Details_for_a_Folder_or_File.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+            <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SHARE/SHARE_Remove_a_File_or_Folder.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        </TocEntry>
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SHARE/SHARE_Cancel_a_SHARE_Event.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SHARE/SHARE_Publish_to_SHARE.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SHARE/SHARE_Send_to_Case.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry Title="[%=System.LinkedTitle%]" Link="/Content/SHARE/SHARE_Share_with_DepoView.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+        <TocEntry Title="My Files" Link="/Content/TrialDirector/F_Articles/MyFiles/My_Files.htm">
+            <TocEntry Title="Remove a Job" Link="/Content/TrialDirector/F_Articles/MyFiles/Remove_a_Task.htm" />
+            <TocEntry Title="Download a Job" Link="/Content/TrialDirector/F_Articles/MyFiles/Download_a_Task.htm" />
+            <TocEntry Title="View Details of a Job" Link="/Content/TrialDirector/F_Articles/MyFiles/View_Details_of_a_Task.htm" />
+            <TocEntry Title="Rerun a Job" Link="/Content/TrialDirector/F_Articles/MyFiles/Rerun_a_Task.htm" />
+        </TocEntry>
+    </TocEntry>
+</CatapultToc>

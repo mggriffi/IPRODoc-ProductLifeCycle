@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <link href="../TableStyles/CD360_Help_Tables.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <link href="../Stylesheets/Trial_CSS.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <table style="width: auto;mc-table-style: url('../TableStyles/CD360_Help_Tables.css');" class="TableStyle-ADD_Help_Tables" cellspacing="0">
+            <col class="TableStyle-ADD_Help_Tables-Column-Column1" style="width: 96px;" />
+            <col class="TableStyle-ADD_Help_Tables-Column-Column1" style="width: 566px;" />
+            <thead>
+                <tr class="TableStyle-ADD_Help_Tables-Head-Header1">
+                    <td class="TableStyle-ADD_Help_Tables-HeadE-Column1-Header1">
+                        <p class="TableHead">Option</p>
+                    </td>
+                    <td class="TableStyle-ADD_Help_Tables-HeadD-Column1-Header1">
+                        <p class="TableHead">Definition</p>
+                    </td>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="TableStyle-ADD_Help_Tables-Body-Body1">
+                    <td class="TableStyle-ADD_Help_Tables-BodyE-Column1-Body1">
+                        <p class="TableText">
+                            <b>Text</b>
+                        </p>
+                    </td>
+                    <td class="TableStyle-ADD_Help_Tables-BodyD-Column1-Body1">
+                        <p class="TableText">Text</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-ADD_Help_Tables-Body-Body1">
+                    <td class="TableStyle-ADD_Help_Tables-BodyE-Column1-Body1">
+                        <p class="TableText">
+                            <b>Text</b>
+                        </p>
+                    </td>
+                    <td class="TableStyle-ADD_Help_Tables-BodyD-Column1-Body1">
+                        <p class="TableText">Text</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-ADD_Help_Tables-Body-Body1">
+                    <td class="TableStyle-ADD_Help_Tables-BodyE-Column1-Body1">
+                        <p class="TableText">
+                            <b>Text</b>
+                        </p>
+                    </td>
+                    <td class="TableStyle-ADD_Help_Tables-BodyD-Column1-Body1">
+                        <p class="TableText">Text</p>
+                    </td>
+                </tr>
+                <tr class="TableStyle-ADD_Help_Tables-Body-Body1">
+                    <td class="TableStyle-ADD_Help_Tables-BodyE-Column1-Body1">
+                        <p class="TableText">
+                            <b>Text</b>
+                        </p>
+                    </td>
+                    <td class="TableStyle-ADD_Help_Tables-BodyD-Column1-Body1">
+                        <p class="TableText">Text</p>
+                        <ul class="BulletListBody">
+                            <li>
+                                <p class="TableText">Text</p>
+                            </li>
+                            <li>
+                                <p class="TableText">Text</p>
+                            </li>
+                            <li>
+                                <p class="TableText">Text</p>
+                            </li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr class="TableStyle-ADD_Help_Tables-Body-Body1">
+                    <td class="TableStyle-ADD_Help_Tables-BodyE-Column1-Body1">
+                        <p class="TableText">
+                            <b>Text</b>
+                        </p>
+                    </td>
+                    <td class="TableStyle-ADD_Help_Tables-BodyD-Column1-Body1">
+                        <ol class="NumbListTable">
+                            <li>
+                                <p class="TableText">Procedure text.</p>
+                            </li>
+                            <li>
+                                <p class="TableText">Procedure text.</p>
+                            </li>
+                            <li>
+                                <p class="TableText">Procedure text.</p>
+                            </li>
+                            <li>
+                                <p class="TableText">Procedure text.</p>
+                            </li>
+                        </ol>
+                    </td>
+                </tr>
+                <tr class="TableStyle-ADD_Help_Tables-Body-Body1">
+                    <td class="TableStyle-ADD_Help_Tables-BodyB-Column1-Body1">
+                        <p class="TableText">
+                            <b>Text</b>
+                        </p>
+                    </td>
+                    <td class="TableStyle-ADD_Help_Tables-BodyA-Column1-Body1">
+                        <p class="TableText">Text</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>
